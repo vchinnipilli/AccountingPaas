@@ -1,3 +1,4 @@
+#!/bin/bash
 curl -k -X POST --data-urlencode \
   'payload={
   "channel": "#bamboo-builds",
